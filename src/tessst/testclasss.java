@@ -6,8 +6,12 @@ public class testclasss {
 		
 		System.out.println("First");
 		
+<<<<<<< HEAD
 		System.out.println("Proper");
 
+=======
+		System.out.println("Not proper");
+>>>>>>> 776d5bc (m1)
 	}
 
 }
